@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+compile_commands.json
+.cache/clangd/index/grabCutDefines.hpp.68308719523532EA.idx
+.cache/clangd/index/grabCut.cpp.ED5093FFAE746941.idx
